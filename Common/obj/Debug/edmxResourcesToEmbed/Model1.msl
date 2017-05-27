@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="EntProgDBModelStoreContainer" CdmEntityContainer="EnterpriseEntities">
+    <EntitySetMapping Name="articles">
+      <EntityTypeMapping TypeName="EntProgDBModel.article">
+        <MappingFragment StoreEntitySet="article">
+          <ScalarProperty Name="articleID" ColumnName="articleID" />
+          <ScalarProperty Name="article_name" ColumnName="article_name" />
+          <ScalarProperty Name="article_sub_heading" ColumnName="article_sub_heading" />
+          <ScalarProperty Name="isfeatured" ColumnName="isfeatured" />
+          <ScalarProperty Name="isBreaking" ColumnName="isBreaking" />
+          <ScalarProperty Name="category" ColumnName="category" />
+          <ScalarProperty Name="content" ColumnName="content" />
+          <ScalarProperty Name="authorID" ColumnName="authorID" />
+          <ScalarProperty Name="imageUrl" ColumnName="imageUrl" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="authors">
+      <EntityTypeMapping TypeName="EntProgDBModel.author">
+        <MappingFragment StoreEntitySet="author">
+          <ScalarProperty Name="authorID" ColumnName="authorID" />
+          <ScalarProperty Name="first_name" ColumnName="first_name" />
+          <ScalarProperty Name="last_name" ColumnName="last_name" />
+          <ScalarProperty Name="profile" ColumnName="profile" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="password" ColumnName="password" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

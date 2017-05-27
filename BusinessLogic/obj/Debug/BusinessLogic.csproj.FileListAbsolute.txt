@@ -1,0 +1,165 @@
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\ryan\SWD6.2B\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+E:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+I:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+D:\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Ryan\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Owner\OneDrive\Degree 2nd Year\2nd Semester\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll.config
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Common.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Common.pdb
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\DataAccess.pdb
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\obj\Debug\BusinessLogic.pdb
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Azure.KeyVault.Core.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.Edm.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.OData.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.Services.Client.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.WindowsAzure.Storage.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\System.Spatial.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Azure.KeyVault.Core.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.Edm.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.OData.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.Data.Services.Client.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.WindowsAzure.Storage.pdb
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Microsoft.WindowsAzure.Storage.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\System.Spatial.xml
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\de\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\es\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\fr\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\it\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ja\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ko\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ru\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hans\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hant\Microsoft.Data.Edm.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\de\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\es\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\fr\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\it\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ja\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ko\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ru\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hans\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hant\Microsoft.Data.OData.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\de\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\es\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\fr\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\it\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ja\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ko\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ru\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hans\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hant\Microsoft.Data.Services.Client.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\de\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\es\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\fr\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\it\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ja\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ko\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\ru\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hans\System.Spatial.resources.dll
+C:\Users\Owner\Documents\Source\Repos\enterprise_christian_bonnici\Enterprise\SWD6.2B\BusinessLogic\bin\Debug\zh-Hant\System.Spatial.resources.dll

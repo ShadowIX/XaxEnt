@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="EntProgDBModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012.Azure" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="article">
+    <Key>
+      <PropertyRef Name="articleID" />
+    </Key>
+    <Property Name="articleID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="article_name" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="article_sub_heading" Type="nvarchar" MaxLength="256" />
+    <Property Name="isfeatured" Type="bit" />
+    <Property Name="isBreaking" Type="bit" />
+    <Property Name="category" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="content" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="authorID" Type="int" />
+    <Property Name="imageUrl" Type="nvarchar(max)" />
+  </EntityType>
+  <EntityType Name="author">
+    <Key>
+      <PropertyRef Name="authorID" />
+    </Key>
+    <Property Name="authorID" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="first_name" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="last_name" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="profile" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="email" Type="nvarchar" MaxLength="256" Nullable="false" />
+    <Property Name="password" Type="nvarchar" MaxLength="256" Nullable="false" />
+  </EntityType>
+  <Association Name="FK__article__authorI__5DCAEF64">
+    <End Role="author" Type="Self.author" Multiplicity="0..1" />
+    <End Role="article" Type="Self.article" Multiplicity="*" />
+    <ReferentialConstraint>
+      <Principal Role="author">
+        <PropertyRef Name="authorID" />
+      </Principal>
+      <Dependent Role="article">
+        <PropertyRef Name="authorID" />
+      </Dependent>
+    </ReferentialConstraint>
+  </Association>
+  <EntityContainer Name="EntProgDBModelStoreContainer">
+    <EntitySet Name="article" EntityType="Self.article" Schema="a01" store:Type="Tables" />
+    <EntitySet Name="author" EntityType="Self.author" Schema="a01" store:Type="Tables" />
+    <AssociationSet Name="FK__article__authorI__5DCAEF64" Association="Self.FK__article__authorI__5DCAEF64">
+      <End Role="author" EntitySet="author" />
+      <End Role="article" EntitySet="article" />
+    </AssociationSet>
+  </EntityContainer>
+</Schema>
